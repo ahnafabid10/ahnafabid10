@@ -1,4 +1,5 @@
 ![Ahnaf Abid Banner](./banner.jpg)
+
 I am Ahnaf Abid, a web developer focused on MERN stack projects.I enjoy building clean and responsive web applications.
 
 I'm open to work and new opportunities (remote).
@@ -30,6 +31,6 @@ Besides programming, I have an interest in content creation.
 ![](https://github-contributor-stats.vercel.app/api?username=ahnafabid10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahnafabid10&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
