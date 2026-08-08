@@ -1,6 +1,6 @@
 ![Ahnaf Abid Banner](./banner.jpg)
 
-I am Ahnaf Abid, a web developer focused on full-stack projects. I enjoy building clean and responsive web applications.
+I am Ahnaf Abid, a web developer focused on full-stack products. I enjoy building clean and responsive web applications.
 
 I'm open to work and new opportunities (remote).
 
