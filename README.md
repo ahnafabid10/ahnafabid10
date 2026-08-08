@@ -7,7 +7,7 @@ I'm open to work and new opportunities (remote).
 Besides programming, I have an interest in content creation.
 
 # 💫 More About Me:
-🔭 I’m currently working on the Delivery Website<br>🌱 I’m exploring Next.js<br>💡 I love learning new technologies and improving my skills every day.  
+🔭 I’m currently working on a SaaS Product<br>🌱 I’m exploring Prisma<br>💡 I love learning new technologies and improving my skills every day.  
 🎯 I aim to create web apps that solve real-world problems.<br>👯 I’m open to collaborating on any interesting project.<br> 📫 How to reach me: ahnafabid600@gmail.com
 
 
