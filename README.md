@@ -13,6 +13,7 @@ Besides programming, I have an interest in content creation.
 # 🚀 My Startups:
 1. [Share Threado](https://sharethreado.com) — A space for creators and builders to share what they're making, spark fresh ideas, and connect with the people who truly get it.
 2. [UI Scrap Book](https://uiscrapbook.com) — A curated collection of beautiful websites, so designers and builders can find fresh inspiration and see how their own design could look.
+3. [The Nano Insider](https://thenanoinsider.com) — In-depth startup case studies that analyze how successful products were built, positioned, and scaled, giving founders and builders practical lessons to apply.
 
 
 ## 🌐 Socials:
